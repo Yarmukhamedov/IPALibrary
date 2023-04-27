@@ -1,0 +1,85 @@
+{
+  "name": "Mukhammad’s Library",
+  "identifier": "com.ymkhdv.IPALibrary",
+  "subtitle": "All my favorite paid apps in one place!",
+  "description": "Contacts:\n\nTelegram: mukhammad_yarmukhamedov\nInstagram: mukhammad_yarmukhamedov\nPhone: +99893 682 72 22",
+  "website": "https://ymkhdv.com",
+  "tintColor": "#532ECA",
+  "apps": [
+    {
+      "name": "MakePass",
+      "bundleIdentifier": "com.pvieito.InstantPassMobile",
+      "developerName": "Pedro Jose Pereira Vieito",
+      "localizedDescription": "MakePass is a Apple Wallet pass editor. You can start from an empty pass, open a previously saved pass file or import any supported barcode from images, PDFs or directly from the camera\n\nThen, you can customize the pass and save, share or store it directly on Apple Wallet. MakePass also supports creating passes with Shortcuts.",
+      "iconURL": "https://i.imgur.com/ek3m13C.png",
+      "tintColor": "#582790",
+      "versions": [
+        {
+          "version": "2.7",
+          "date": "2023-04-11T13:03:04.195Z",
+          "size": 2290000,
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/blob/main/MakePass/2.7.ipa",
+          "localizedDescription": "• Added Shortcuts support for Mac (requires macOS\nMonterey).\n• Added support for adding passes to Wallet directly from\nShortcuts.\n• Added option to open MakePass passes from Wallet (iOS).\n• Added more discoverable image picker menu (iOS and iPadOS)."
+        }
+      ]
+    },
+    {
+      "name": "Appabetical",
+      "bundleIdentifier": "com.avangelista.Appabetical",
+      "developerName": "Avangelista",
+      "localizedDescription": "Sort your apps A-Z or by color on iOS 14.0 - 16.1.2!\n\nFeatures:\n• Works on any iPhone running iOS 14.0 - 16.1.2\n• Sort apps A-Z, Z-A, or by color\n• Supports sorting for all types of icons, even ones themed with TrollTools\n• Choose only the pages you want to sort\n• Sort pages independently or all together\n• Sort folders separately or mixed in with apps\n• Ability to back up a home screen layout, and quickly undo an accidental sort\n\nNote: OS 16.2+: Not supported, and never will be",
+      "iconURL": "https://i.imgur.com/Eph9Mzz.png",
+      "tintColor": "#8755E1",
+      "versions": [
+        {
+          "version": "1.1.1.",
+          "date": "2023-01-30",
+          "size": 731000,
+          "downloadURL": "https://github.com/Avangelista/Appabetical/releases/download/1.1.1/Appabetical.ipa",
+          "localizedDescription": "",
+          "minOSVersion": "15.0",
+          "maxOSVersion": "16.1.2"
+        },
+        {
+          "version": "1.1.",
+          "date": "2023-01-29",
+          "size": 730000,
+          "downloadURL": "https://github.com/Avangelista/Appabetical/releases/download/1.1/Appabetical.ipa",
+          "localizedDescription": "",
+          "minOSVersion": "15.0",
+          "maxOSVersion": "16.1.2"
+        }
+      ]
+    },
+    {
+      "name": "Cowabunga",
+      "bundleIdentifier": "com.leemin.Cowabunga",
+      "developerName": "Leeminlimez",
+      "subtitle": "A jailed toolbox app",
+      "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\n\nWarning: Some changes are permanent on iOS 14.0-14.8.1",
+      "iconURL": "https://i.imgur.com/0qeBGH0.png",
+      "tintColor": "#09B013",
+      "versions": [
+        {
+          "version": "10.1.1",
+          "date": "2023-04-11T14:30:00.279Z",
+          "size": 2160000,
+          "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v10.1.1/Cowabunga.ipa",
+          "localizedDescription": "• Added remove 3 app limit\n• Added ability to edit secondary carrier name separately\n• Importing operations no longer includes the backup file for changes in /var for safety reasons (Model Name Changer and other operations that edit the mobilegestalt plist should no longer brick devices/cause activation locks)\n• Fixed generate padding button not showing up on file path operations",
+          "minOSVersion": "14.0"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Appabetical has been updated!",
+      "identifier": "com.appabetical.update",
+      "caption": "We have updated the Appabetical to version 1.1.1. Enjoy!",
+      "tintColor": "#FFFFFF",
+      "appID": "com.avangelista.Appabetical",
+      "date": "2023-04-13T06:26:36.335Z",
+      "notify": true
+    }
+  ]
+}
