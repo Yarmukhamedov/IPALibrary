@@ -9,13 +9,13 @@
     "sourceUpdateTime": "2023-04-24T11:00:00+0800",
     "sourceDescription": "My App Library",
     "appCategories": [
-        "Social Apps",
-        "MDC Exploit Apps"
+        "Social",
+        "MDC Exploit"
     ],
     "appRepositories": [
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 0,
+            "appCateIndex": 1,
             "appUpdateTime": "2023-04-26T20:00:00+0800",
             "appName": "Instagram Rocket",
             "appVersion": "278.0",
