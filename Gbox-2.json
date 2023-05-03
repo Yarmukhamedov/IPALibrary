@@ -36,7 +36,7 @@
       "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/1.11.2.ipa"
     },
     {
-      "appType": "SELF-SIGN",
+      "appType": "SELF_SIGN",
       "appCateIndex": "2",
       "appUpdateTime": "2023-05-03T16:05:00+0500",
       "appName": "Debts",
