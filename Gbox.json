@@ -9,19 +9,19 @@
     "sourceUpdateTime": "2023-04-24T11:00:00+0800",
     "sourceDescription": "My App Library",
     "appCategories": [
-        "工具",
-        "模拟器"
+        "Social",
+        "MDC Exploit"
     ],
     "appRepositories": [
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-            "appUpdateTime": "2023-04-27T20:00:00+0800",
-            "appName": "Loot",
-            "appVersion": "2.1.4",
-            "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ef/5b/0f/ef5b0f31-f95d-7ff4-e39b-d69385b25d4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
-            "appPackage": "https://github.com/Yarmukhamedov/IPALibrary/blob/main/Unsigned/Loot/2.1.4.ipa",
-            "appDescription": "Hacked Premium"
+            "appCateIndex": 1,
+            "appUpdateTime": "2023-04-26T20:00:00+0800",
+            "appName": "Instagram Rocket",
+            "appVersion": "278.0",
+            "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Instagram/Rocket/icon.PNG",
+            "appPackage": "https://ia802600.us.archive.org/22/items/instagram-278.0-rocket-3.8.7-cracked-le-ti/Instagram_278.0_Rocket_3.8.7_Cracked_LeTi.ipa",
+            "appDescription": "Injected and hacked Rocket v3.8.7"
         }
     ]
 }
