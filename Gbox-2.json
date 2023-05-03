@@ -33,7 +33,7 @@
       "appName": "ToBuy",
       "appVersion": "1.11.2",
       "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/EF3592F3-0A51-4590-BCC0-7FC6C71D1795.png",
-      "appPackage": "https://github.com/Yarmukhamedov/IPALibrary/blob/main/Unsigned/ToBuy/1.11.2.ipa"
+      "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/1.11.2.ipa"
     },
     {
       "appType": "SELF-SIGN",
