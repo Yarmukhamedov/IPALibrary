@@ -28,22 +28,12 @@
     {
       "appType": "ENT_SIGN",
       "appCateIndex": "8",
-      "appUpdateTime": "2023-05-03T10:00:00+0500",
-      "appName": "ToBuy",
-      "appVersion": "1.11.2",
-      "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/EF3592F3-0A51-4590-BCC0-7FC6C71D1795.png",
-      "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/1.11.2.ipa",
-      "appDescription": "Premium features is unlocked!"
-    },
-    {
-      "appType": "ENT_SIGN",
-      "appCateIndex": "8",
       "appUpdateTime": "2023-05-04T13:38:00+0500",
       "appName": "MakePass",
       "appVersion": "2.7",
       "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/MakePass/C8ADCECC-0F6C-4481-8D6B-00772B1654BF.png",
       "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/MakePass/2.7.ipa",
-      "appDescription": "Paid app from AppStore."
+      "appDescription": "Unlocked Premium feature"
     },
     {
       "appType": "ENT_SIGN",
@@ -53,7 +43,7 @@
       "appVersion": "2.1.4",
       "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Loot/icon.PNG",
       "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Loot/2.1.4.ipa",
-      "appDescription": "Unlocked Premium feature."
+      "appDescription": "Unlocked Premium feature"
     },
     {
       "appType": "ENT_SIGN",
@@ -63,7 +53,7 @@
       "appVersion": "2.0.4",
       "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Denim/B30E4971-09FE-4A18-8233-F850192023B1.png",
       "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Denim/2.0.4.ipa",
-      "appDescription": "Unlocked Premium feature."
+      "appDescription": "Unlocked Premium feature"
     },
     {
       "appType": "ENT_SIGN",
@@ -73,7 +63,7 @@
       "appVersion": "1129.0",
       "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/FootMob/FotMob%20-%20Football%20Live%20Scores-Icon.png",
       "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/FootMob/1129.0.ipa",
-      "appDescription": "Unlocked Premium feature."
+      "appDescription": "Unlocked Premium feature"
     },
     {
       "appType": "ENT_SIGN",
@@ -83,7 +73,7 @@
       "appVersion": "2.0.2",
       "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/EF3592F3-0A51-4590-BCC0-7FC6C71D1795.png",
       "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/2.0.2.ipa",
-      "appDescription": "Unlocked Premium feature."
+      "appDescription": "Unlocked Premium feature"
     }
   ]
 }
