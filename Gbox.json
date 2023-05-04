@@ -20,7 +20,9 @@
     "Utilities",
     "Businnes",
     "Developer Tools",
-    "Mac Dirty Cow"
+    "Mac Dirty Cow",
+    "Graphic & Design",
+    "Sports"
   ],
   "appRepositories": [
     {
@@ -51,6 +53,36 @@
       "appVersion": "2.1.4",
       "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Loot/icon.PNG",
       "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Loot/2.1.4.ipa",
+      "appDescription": "Unlocked Premium feature."
+    },
+    {
+      "appType": "ENT_SIGN",
+      "appCateIndex": "12",
+      "appUpdateTime": "2023-05-04T20:17:00+0500",
+      "appName": "Denim",
+      "appVersion": "2.0.4",
+      "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Denim/B30E4971-09FE-4A18-8233-F850192023B1.png",
+      "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Denim/2.0.4.ipa",
+      "appDescription": "Unlocked Premium feature."
+    },
+    {
+      "appType": "ENT_SIGN",
+      "appCateIndex": "13",
+      "appUpdateTime": "2023-05-04T20:27:00+0500",
+      "appName": "FootMob",
+      "appVersion": "1129.0",
+      "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/FootMob/FotMob%20-%20Football%20Live%20Scores-Icon.png",
+      "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/FootMob/1129.0.ipa",
+      "appDescription": "Unlocked Premium feature."
+    },
+    {
+      "appType": "ENT_SIGN",
+      "appCateIndex": "8",
+      "appUpdateTime": "2023-05-04T22:18:00+0500",
+      "appName": "ToBuy",
+      "appVersion": "2.0.2",
+      "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/EF3592F3-0A51-4590-BCC0-7FC6C71D1795.png",
+      "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/2.0.2.ipa",
       "appDescription": "Unlocked Premium feature."
     }
   ]
