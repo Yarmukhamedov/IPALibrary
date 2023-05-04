@@ -1,27 +1,57 @@
 {
-    "version": "1.0",
-    "sourceName": "IPA Library",
-    "sourceAuthor": "Mukhammad Yarmukhamedov",
-    "sourceExportEnable": true,
-    "sourceLinkTitle": "MY",
-    "sourceLinkUrl": "http://gbox.run",
-    "sourceImage": "http://gbox.run/Public/images/source.png",
-    "sourceUpdateTime": "2023-04-24T11:00:00+0800",
-    "sourceDescription": "My App Library",
-    "appCategories": [
-        "Social",
-        "MDC Exploit"
-    ],
-    "appRepositories": [
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-            "appUpdateTime": "2023-04-26T20:00:00+0800",
-            "appName": "Instagram Rocket",
-            "appVersion": "278.0",
-            "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Instagram/Rocket/icon.PNG",
-            "appPackage": "https://ia802600.us.archive.org/22/items/instagram-278.0-rocket-3.8.7-cracked-le-ti/Instagram_278.0_Rocket_3.8.7_Cracked_LeTi.ipa",
-            "appDescription": "Injected and hacked Rocket v3.8.7"
-        }
-    ]
+  "version": "1.0",
+  "sourceName": "Mukhammad’s Library",
+  "sourceAuthor": "Mukhammad Yarmukhamedov",
+  "sourceExportEnable": true,
+  "sourceLinkTitle": "",
+  "sourceLinkUrl": "http://gbox.run",
+  "sourceImage": "http://gbox.run/Public/images/source.png",
+  "sourceUpdateTime": "2023-04-24T11:00:00+0800",
+  "sourceDescription": "My App Library\n\nIf your application is on the list, please email me: ymkhdv@icloud.com",
+  "appCategories": [
+    "Social Networking",
+    "Photo & Video",
+    "Entertainment",
+    "Finance",
+    "Health & Fitness",
+    "Food & Drink",
+    "Productivity",
+    "Lifestyle",
+    "Utilities",
+    "Businnes",
+    "Developer Tools",
+    "Mac Dirty Cow"
+  ],
+  "appRepositories": [
+    {
+      "appType": "ENT_SIGN",
+      "appCateIndex": "8",
+      "appUpdateTime": "2023-05-03T10:00:00+0500",
+      "appName": "ToBuy",
+      "appVersion": "1.11.2",
+      "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/EF3592F3-0A51-4590-BCC0-7FC6C71D1795.png",
+      "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/1.11.2.ipa",
+      "appDescription": "Premium features is unlocked!"
+    },
+    {
+      "appType": "ENT_SIGN",
+      "appCateIndex": "8",
+      "appUpdateTime": "2023-05-04T13:38:00+0500",
+      "appName": "MakePass",
+      "appVersion": "2.7",
+      "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/MakePass/C8ADCECC-0F6C-4481-8D6B-00772B1654BF.png",
+      "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/MakePass/2.7.ipa",
+      "appDescription": "Paid app from AppStore."
+    },
+    {
+      "appType": "ENT_SIGN",
+      "appCateIndex": "3",
+      "appUpdateTime": "2023-05-04T15:36:00+0500",
+      "appName": "Loot",
+      "appVersion": "2.1.4",
+      "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Loot/icon.PNG",
+      "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Loot/2.1.4.ipa",
+      "appDescription": "Unlocked Premium feature."
+    }
+  ]
 }

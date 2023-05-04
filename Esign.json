@@ -1,0 +1,24 @@
+{
+  "name": "Mukhammad’s Library",
+  "message": "Mukhammad’s Library repository for easy installation of applications!\n\nAuthor: Mukhammad Yarmukhamedov\nEmail: ymkhdv@icloud.com\nTelegram: t.me/mukhammad_yarmukhamedov",
+  "identifier": "com.ymkhdv.IPALibrary",
+  "sourceURL": "https://Ipalibrary.ru/appstore",
+  "sourceicon": "https://ipalibrary.ru/public/uploads/20230415/c87552aa8697ad5252b9e8f989b2cd90.png",
+  "payURL": "https://t.me/IPALibrarybot",
+  "unlockURL": "https://ipalibrary.ru/appstore",
+  "apps": [
+    {
+      "name": "ToBuy",
+      "type": "2",
+      "version": "1.11.2",
+      "versionDate": "2023-05-03T10:00:00+0500",
+      "versionDescription": "Premium features is unlocked!",
+      "lock": "0",
+      "downloadURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/1.11.2.ipa",
+      "isLanZouCloud": "0",
+      "iconURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/EF3592F3-0A51-4590-BCC0-7FC6C71D1795.png",
+      "tintColor": "",
+      "size": "858000000.0"
+    }
+  ]
+}
