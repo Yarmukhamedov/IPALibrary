@@ -67,12 +67,22 @@
     },
     {
       "appType": "ENT_SIGN",
-      "appCateIndex": "8",
+      "appCateIndex": "3",
       "appUpdateTime": "2023-05-04T22:18:00+0500",
       "appName": "ToBuy",
       "appVersion": "2.0.2",
       "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/EF3592F3-0A51-4590-BCC0-7FC6C71D1795.png",
       "appPackage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/ToBuy/2.0.2.ipa",
+      "appDescription": "Unlocked Premium feature!"
+    },
+    {
+      "appType": "ENT_SIGN",
+      "appCateIndex": "8",
+      "appUpdateTime": "2023-05-05T08:28:00+0500",
+      "appName": "PIN Wallet",
+      "appVersion": "2.2.1",
+      "appImage": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/PIN%20Wallet/PIN%20Wallet.Secure%20Card%20Manager-Icon.png",
+      "appPackage": "http://dl.dropboxusercontent.com/s/frcjfoflazuy9rq/2.2.1.ipa",
       "appDescription": "Unlocked Premium feature!"
     }
   ]
