@@ -126,7 +126,7 @@
         {
           "version": "2.2.1",
           "date": "2023-05-05T08:28:00+0500",
-          "size": "119700000",
+          "size": 119700000,
           "downloadURL": "http://dl.dropboxusercontent.com/s/frcjfoflazuy9rq/2.2.1.ipa",
           "localizedDescription": "- Fixed issue with Pro version\n- Injected Fake Purchase tweak",
           "minOSVersion": "14.0"
