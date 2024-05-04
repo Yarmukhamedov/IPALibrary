@@ -4,7 +4,7 @@
   "subtitle": "All my favorite paid and free apps in one repo!",
   "description": "Contacts:\n\nTelegram: mukhammad_yarmukhamedov\nInstagram: mukhammad_yarmukhamedov\nPhone: +99893 682 72 22",
   "website": "https://ymkhdv.com",
-  "tintColor": "#6292d1",
+  "tintColor": "#814ced",
   "apps": [
     {
       "name": "Bear",
@@ -69,7 +69,7 @@
       "title": "Big update soon!",
       "identifier": "com.launch.update",
       "caption": "There will be a lot of interesting things very soon.",
-      "tintColor": "#FFFFFF",
+      "tintColor": "#814ced",
       "date": "2024-05-04",
       "notify": true
     }
