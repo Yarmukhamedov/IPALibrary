@@ -17,14 +17,14 @@
         {
           "version": "2.0.5",
           "date": "2024-05-04",
-          "size": 279000,
+          "size": 2790000,
           "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/blob/main/Unsigned/Bear/2.0.5.ipa",
-          "localizedDescription": "• Added Shortcuts support for Mac (requires macOS\nMonterey).\n• Added support for adding passes to Wallet directly from\nShortcuts.\n• Added option to open MakePass passes from Wallet (iOS).\n• Added more discoverable image picker menu (iOS and iPadOS)."
+          "localizedDescription": "Updated to AppStore 2.0.5 version"
         }
       ]
     },
     {
-      "name": "Appabetical",
+      "name": "Walllpaper Central",
       "bundleIdentifier": "com.avangelista.Appabetical",
       "developerName": "Avangelista",
       "localizedDescription": "Sort your apps A-Z or by color on iOS 14.0 - 16.1.2!\n\nFeatures:\n• Works on any iPhone running iOS 14.0 - 16.1.2\n• Sort apps A-Z, Z-A, or by color\n• Supports sorting for all types of icons, even ones themed with TrollTools\n• Choose only the pages you want to sort\n• Sort pages independently or all together\n• Sort folders separately or mixed in with apps\n• Ability to back up a home screen layout, and quickly undo an accidental sort\n\nNote: OS 16.2+: Not supported, and never will be",
