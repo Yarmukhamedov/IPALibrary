@@ -26,28 +26,19 @@
     {
       "name": "Walllpaper Central",
       "bundleIdentifier": "com.avangelista.Appabetical",
-      "developerName": "Avangelista",
-      "localizedDescription": "Sort your apps A-Z or by color on iOS 14.0 - 16.1.2!\n\nFeatures:\n• Works on any iPhone running iOS 14.0 - 16.1.2\n• Sort apps A-Z, Z-A, or by color\n• Supports sorting for all types of icons, even ones themed with TrollTools\n• Choose only the pages you want to sort\n• Sort pages independently or all together\n• Sort folders separately or mixed in with apps\n• Ability to back up a home screen layout, and quickly undo an accidental sort\n\nNote: OS 16.2+: Not supported, and never will be",
-      "iconURL": "https://i.imgur.com/Eph9Mzz.png",
-      "tintColor": "#8755E1",
+      "developerName": "iSpazio S.r.I",
+      "localizedDescription": "Wallpapers Central is a service completely dedicated to the graphic customization of your devices",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/e7/72/2de77295-90ea-0711-74fc-5dbbdccdb889/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.png",
+      "tintColor": "#f8367a",
       "versions": [
         {
-          "version": "1.1.1.",
-          "date": "2023-01-30",
-          "size": 731000,
-          "downloadURL": "https://github.com/Avangelista/Appabetical/releases/download/1.1.1/Appabetical.ipa",
-          "localizedDescription": "",
-          "minOSVersion": "15.0",
-          "maxOSVersion": "16.1.2"
-        },
-        {
-          "version": "1.1.",
-          "date": "2023-01-29",
-          "size": 730000,
-          "downloadURL": "https://github.com/Avangelista/Appabetical/releases/download/1.1/Appabetical.ipa",
-          "localizedDescription": "",
-          "minOSVersion": "15.0",
-          "maxOSVersion": "16.1.2"
+          "version": "1.5.3.",
+          "date": "2024-05-05",
+          "size": 31700000,
+          "downloadURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Wallpaper%20Central/1.5.3.ipa",
+          "localizedDescription": "Updated to AppStore 1.5.3 version",
+          "minOSVersion": "15",
+          "maxOSVersion": "17"
         }
       ]
     },
