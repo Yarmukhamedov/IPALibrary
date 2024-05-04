@@ -1,7 +1,7 @@
 {
-  "name": "Mukhammad’s Library",
-  "identifier": "com.ymkhdv.IPALibrary",
-  "subtitle": "All my favorite paid apps in one place!",
+  "name": "Repository",
+  "identifier": "com.ymkhdv.repository",
+  "subtitle": "All my favorite paid and free apps in one repo!",
   "description": "Contacts:\n\nTelegram: mukhammad_yarmukhamedov\nInstagram: mukhammad_yarmukhamedov\nPhone: +99893 682 72 22",
   "website": "https://ymkhdv.com",
   "tintColor": "#532ECA",
@@ -12,7 +12,7 @@
       "developerName": "Pedro Jose Pereira Vieito",
       "localizedDescription": "MakePass is a Apple Wallet pass editor. You can start from an empty pass, open a previously saved pass file or import any supported barcode from images, PDFs or directly from the camera\n\nThen, you can customize the pass and save, share or store it directly on Apple Wallet. MakePass also supports creating passes with Shortcuts.",
       "iconURL": "https://i.imgur.com/ek3m13C.png",
-      "tintColor": "#582790",
+      "tintColor": "#6292d1",
       "versions": [
         {
           "version": "2.7",
@@ -73,12 +73,11 @@
   ],
   "news": [
     {
-      "title": "Appabetical has been updated!",
-      "identifier": "com.appabetical.update",
-      "caption": "We have updated the Appabetical to version 1.1.1. Enjoy!",
+      "title": "Big update soon!",
+      "identifier": "com.launch.update",
+      "caption": "There will be a lot of interesting things very soon.",
       "tintColor": "#FFFFFF",
-      "appID": "com.avangelista.Appabetical",
-      "date": "2023-04-13T06:26:36.335Z",
+      "date": "2024-05-04",
       "notify": true
     }
   ]
