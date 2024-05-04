@@ -4,21 +4,21 @@
   "subtitle": "All my favorite paid and free apps in one repo!",
   "description": "Contacts:\n\nTelegram: mukhammad_yarmukhamedov\nInstagram: mukhammad_yarmukhamedov\nPhone: +99893 682 72 22",
   "website": "https://ymkhdv.com",
-  "tintColor": "#532ECA",
+  "tintColor": "#6292d1",
   "apps": [
     {
-      "name": "MakePass",
-      "bundleIdentifier": "com.pvieito.InstantPassMobile",
-      "developerName": "Pedro Jose Pereira Vieito",
-      "localizedDescription": "MakePass is a Apple Wallet pass editor. You can start from an empty pass, open a previously saved pass file or import any supported barcode from images, PDFs or directly from the camera\n\nThen, you can customize the pass and save, share or store it directly on Apple Wallet. MakePass also supports creating passes with Shortcuts.",
-      "iconURL": "https://i.imgur.com/ek3m13C.png",
+      "name": "Bear",
+      "bundleIdentifier": "net.shinyfrog.bear-iOS",
+      "developerName": "Shiny Frog Ltd.",
+      "localizedDescription": "Bear is beautiful, powerfull simple Markdown app to capture, write and organize your life.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/cf/85/0acf85d1-3203-f060-2a7d-9937bddf5607/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/512x512bb.png",
       "tintColor": "#6292d1",
       "versions": [
         {
-          "version": "2.7",
-          "date": "2023-04-11T13:03:04.195Z",
-          "size": 2290000,
-          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/blob/main/MakePass/2.7.ipa",
+          "version": "2.0.5",
+          "date": "2024-05-04",
+          "size": 279000,
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/blob/main/Unsigned/Bear/2.0.5.ipa",
           "localizedDescription": "• Added Shortcuts support for Mac (requires macOS\nMonterey).\n• Added support for adding passes to Wallet directly from\nShortcuts.\n• Added option to open MakePass passes from Wallet (iOS).\n• Added more discoverable image picker menu (iOS and iPadOS)."
         }
       ]
