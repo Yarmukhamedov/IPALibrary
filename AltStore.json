@@ -17,15 +17,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/cf/85/0acf85d1-3203-f060-2a7d-9937bddf5607/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/512x512bb.png",
       "tintColor": "#EC2A1B",
       "category": "developer",
-      "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5d/f8/a1/5df8a17a-b77a-bd2c-f67c-18cac79d9532/c0a077c6-cb01-40cb-a973-ec02275a3bd5_Markdown_-_iPhone_5.5_U0022.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b4/c2/41/b4c241d0-b832-04ed-abcb-d9acd1d32edc/98b97233-91b1-404f-a12e-1ca4bb735a3f_Tags_-_iPhone_5.5_U0022@3x.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/b6/cd/a2b6cd17-3cd3-d43e-2883-83121afe5c31/b44d8bf1-74ee-4dc9-acf1-f52864134f47_Sync_-_iPhone_5.5_U0022@3x.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a9/00/2d/a9002d19-0dc1-5838-196a-a3325b14330e/bdeee101-a659-43ce-8a14-0cf8ff6ab26c_Themes_-_iPhone_5.5_U0022@3x.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ba/32/4b/ba324b25-d809-d46a-5813-d52d4ec5ad0f/a44f297e-3332-44c2-a705-daa73c831066_Info_Panel_-_iPhone_5.5_U0022@3x.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/4c/c4/a74cc4ec-feb9-536a-a3b0-caec00e0a84d/d5226cf0-c92d-456d-9762-0bc9b2109ef2_Sketch_-_iPhone_5.5_U0022@3x.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c7/92/06/c792063a-2ab8-4ce1-e436-2a26017a78f6/5970f88b-617d-453f-9c23-05fe06b2892c_Encryption_-_iPhone_5.5_U0022@3x.png/392x696bb.png"
-        ],
       "versions": [
         {
           "version": "2.0.5",
@@ -38,7 +29,7 @@
     },
     {
       "name": "Walllpaper Central",
-      "bundleIdentifier": "com.avangelista.Appabetical",
+      "bundleIdentifier": "com.ispazio.Wallpapers-Central",
       "developerName": "iSpazio S.r.I",
       "subtitle": "Wallpapers with depth effect",
       "localizedDescription": "Wallpapers Central is a service completely dedicated to the graphic customization of your devices",
@@ -62,25 +53,16 @@
       "bundleIdentifier": "com.polybitstudio.savings",
       "developerName": "Polybit Studio Pty Ltd",
       "subtitle": "Piggy bank with saving goals",
-      "localizedDescription": "Keep track of your savings goal in a personalised 3D money jar and feel rewarded for every dollar you put away!\n\nLoot helps you calculate how long it will take you to save for your goal based on the amount you want put away. A savings plan is created for you and you’ll receive push notifications to keep you on track.\n\nFEATURES:\n- Save by week, fortnight or month.\n- Auto calculate based on the amount needed to save or by time.\n- View previews and upcoming payments toward your savings goal.\n- Add or remove payments.\n- Personalise your savings jar with 60 unique label styles.\n- Push notification reminders by week, fortnight or month at a specific time.\n- Dark mode ready.\n\nGot feed­back or ideas? Feel free to reach out to sup­port@poly­bit­stu­dio.­com",
+      "localizedDescription": "Keep track of your savings goal in a personalised 3D money jar and feel rewarded for every dollar you put away! Loot helps you calculate how long it will take you to save for your goal based on the amount you want put away. A savings plan is created for you and you’ll receive push notifications to keep you on track.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ef/5b/0f/ef5b0f31-f95d-7ff4-e39b-d69385b25d4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
       "tintColor": "#FFD700",
       "category": "lifestyle",
-      "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7c/69/48/7c694892-2c32-b64d-1646-a81bd4b31062/pr_source.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ca/e3/76/cae37699-b983-d74e-e717-7154aca0aa87/pr_source.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d2/42/d6/d242d688-5f17-35e8-d095-a35432a930d6/pr_source.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/95/3c/d7/953cd73e-2ecb-9c02-3801-c6cdb7681134/pr_source.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/80/b0/07/80b0075a-aa5d-6fb3-f602-71ddd0164cd4/7a1eb147-8526-46af-ace8-fe9f4ad54900_5-5-inch-7.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/91/72/40/917240dd-6691-359e-8301-1b0f817f0915/1ce504ea-e201-4ee5-a27d-3b8767520501_5-5-inch-5.png/392x696bb.png",
-            "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f0/23/de/f023dee1-5db2-499e-9a02-c7d83d4c145c/pr_source.png/392x696bb.png"
-        ],
       "versions": [
         {
           "version": "2.1.4",
           "date": "2024-04-05",
           "size": 2160000,
-          "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v10.1.1/Cowabunga.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Loot/2.1.4.ipa",
           "localizedDescription": "Updated to AppStore 2.1.4 version.",
           "minOSVersion": "14.0"
         }
