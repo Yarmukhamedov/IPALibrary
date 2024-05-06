@@ -16,6 +16,12 @@
       "localizedDescription": "Bear is beautiful, powerfull simple Markdown app to capture, write and organize your life.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/cf/85/0acf85d1-3203-f060-2a7d-9937bddf5607/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/512x512bb.png",
       "tintColor": "#EC2A1B",
+      "category": "developer",
+      "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png"
+        ],
       "versions": [
         {
           "version": "2.0.5",
@@ -34,6 +40,7 @@
       "localizedDescription": "Wallpapers Central is a service completely dedicated to the graphic customization of your devices",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/e7/72/2de77295-90ea-0711-74fc-5dbbdccdb889/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.png",
       "tintColor": "#f8367a",
+      "category": "photo-video",
       "versions": [
         {
           "version": "1.5.3.",
@@ -54,6 +61,7 @@
       "localizedDescription": "Keep track of your savings goal in a personalised 3D money jar and feel rewarded for every dollar you put away!\n\nLoot helps you calculate how long it will take you to save for your goal based on the amount you want put away. A savings plan is created for you and you’ll receive push notifications to keep you on track.\n\nFEATURES:\n- Save by week, fortnight or month.\n- Auto calculate based on the amount needed to save or by time.\n- View previews and upcoming payments toward your savings goal.\n- Add or remove payments.\n- Personalise your savings jar with 60 unique label styles.\n- Push notification reminders by week, fortnight or month at a specific time.\n- Dark mode ready.\n\nGot feed­back or ideas? Feel free to reach out to sup­port@poly­bit­stu­dio.­com",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ef/5b/0f/ef5b0f31-f95d-7ff4-e39b-d69385b25d4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
       "tintColor": "#FFD700",
+      "category": "lifestyle",
       "versions": [
         {
           "version": "2.1.4",
