@@ -18,9 +18,13 @@
       "tintColor": "#EC2A1B",
       "category": "developer",
       "screenshots": [
-            "https://example.com/myapp_screenshot1.png",
-            "https://example.com/myapp_screenshot2.png",
-            "https://example.com/myapp_screenshot3.png"
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5d/f8/a1/5df8a17a-b77a-bd2c-f67c-18cac79d9532/c0a077c6-cb01-40cb-a973-ec02275a3bd5_Markdown_-_iPhone_5.5_U0022.png/392x696bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b4/c2/41/b4c241d0-b832-04ed-abcb-d9acd1d32edc/98b97233-91b1-404f-a12e-1ca4bb735a3f_Tags_-_iPhone_5.5_U0022@3x.png/392x696bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/b6/cd/a2b6cd17-3cd3-d43e-2883-83121afe5c31/b44d8bf1-74ee-4dc9-acf1-f52864134f47_Sync_-_iPhone_5.5_U0022@3x.png/392x696bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a9/00/2d/a9002d19-0dc1-5838-196a-a3325b14330e/bdeee101-a659-43ce-8a14-0cf8ff6ab26c_Themes_-_iPhone_5.5_U0022@3x.png/392x696bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ba/32/4b/ba324b25-d809-d46a-5813-d52d4ec5ad0f/a44f297e-3332-44c2-a705-daa73c831066_Info_Panel_-_iPhone_5.5_U0022@3x.png/392x696bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/4c/c4/a74cc4ec-feb9-536a-a3b0-caec00e0a84d/d5226cf0-c92d-456d-9762-0bc9b2109ef2_Sketch_-_iPhone_5.5_U0022@3x.png/392x696bb.png",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c7/92/06/c792063a-2ab8-4ce1-e436-2a26017a78f6/5970f88b-617d-453f-9c23-05fe06b2892c_Encryption_-_iPhone_5.5_U0022@3x.png/392x696bb.png"
         ],
       "versions": [
         {
