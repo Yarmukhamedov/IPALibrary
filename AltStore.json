@@ -57,6 +57,15 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ef/5b/0f/ef5b0f31-f95d-7ff4-e39b-d69385b25d4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
       "tintColor": "#FFD700",
       "category": "lifestyle",
+      "screenshots": {
+          "iphone": [
+              {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7c/69/48/7c694892-2c32-b64d-1646-a81bd4b31062/pr_source.png/392x696bb.png",
+            "width": 2556,
+            "height": 1179
+        }
+    ],
+},
       "versions": [
         {
           "version": "2.1.4",
