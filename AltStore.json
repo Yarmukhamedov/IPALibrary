@@ -57,6 +57,14 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ef/5b/0f/ef5b0f31-f95d-7ff4-e39b-d69385b25d4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
       "tintColor": "#FFD700",
       "category": "lifestyle",
+      "appPermissions": {
+  "entitlements": [
+    "com.apple.compilers.llvm.clang.1_0"
+  ],
+  "privacy": {
+    "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+  }
+},
       "versions": [
         {
           "version": "2.1.4",
