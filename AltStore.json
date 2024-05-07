@@ -98,7 +98,7 @@
       "title": "Big update soon!",
       "identifier": "com.launch.update",
       "caption": "There will be a lot of interesting things very soon.",
-      "tintColor": "#814ced",
+      "tintColor": "#007fff",
       "date": "2024-05-04",
       "notify": true
     }
