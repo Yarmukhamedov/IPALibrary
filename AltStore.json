@@ -57,45 +57,44 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ef/5b/0f/ef5b0f31-f95d-7ff4-e39b-d69385b25d4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
       "tintColor": "#FFD700",
       "category": "lifestyle",
-      "screenshots": {
-          "iphone": [
-              {
+          "ipad": [
+        {
             "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7c/69/48/7c694892-2c32-b64d-1646-a81bd4b31062/pr_source.png/392x696bb.png",
             "width": 392,
             "height": 696
-             },
-             {
+        },
+            {
             "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ca/e3/76/cae37699-b983-d74e-e717-7154aca0aa87/pr_source.png/392x696bb.png",
             "width": 392,
             "height": 696
-            },
+        },
             {
             "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d2/42/d6/d242d688-5f17-35e8-d095-a35432a930d6/pr_source.png/392x696bb.png",
             "width": 392,
-            "height": 696
-            },
+            "height": 2388
+        },
             {
             "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/95/3c/d7/953cd73e-2ecb-9c02-3801-c6cdb7681134/pr_source.png/392x696bb.png",
             "width": 392,
             "height": 696
-            },
+        },
             {
             "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/80/b0/07/80b0075a-aa5d-6fb3-f602-71ddd0164cd4/7a1eb147-8526-46af-ace8-fe9f4ad54900_5-5-inch-7.png/392x696bb.png",
             "width": 392,
-            "height": 696 
-            },
+            "height": 696
+        },
             {
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/91/72/40/917240dd-6691-359e-8301-1b0f817f0915/1ce504ea-e201-4ee5-a27d-3b8767520501_5-5-inch-5.png/392x696bb.png"
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/91/72/40/917240dd-6691-359e-8301-1b0f817f0915/1ce504ea-e201-4ee5-a27d-3b8767520501_5-5-inch-5.png/392x696bb.png",
             "width": 392,
-            "height": 696 
-            },
-            {
-            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f0/23/de/f023dee1-5db2-499e-9a02-c7d83d4c145c/pr_source.png/392x696bb.png"
+            "height": 696
+        },
+        {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f0/23/de/f023dee1-5db2-499e-9a02-c7d83d4c145c/pr_source.png/392x696bb.png",
             "width": 392,
-            "height": 696 
-            }, 
-      ]    
-},
+            "height": 696
+        }
+    ]
+}
       "versions": [
         {
           "version": "2.1.4",
