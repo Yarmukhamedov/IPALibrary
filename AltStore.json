@@ -18,10 +18,6 @@
       "tintColor": "#EC2A1B",
       "category": "developer",
       "appPermissions": {
-  "entitlements": [
-    "com.apple.security.application-groups",
-    "com.apple.developer.siri"
-  ],
   "privacy": {
     "NSAppleMusicUsageDescription": "Used to insert images from the media into notes.",
     "NSCameraUsageDescription": "Used to insert images from the camera into notes.",
