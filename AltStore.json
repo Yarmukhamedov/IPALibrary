@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/pictures/logotype.png",
   "headerURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/pictures/header.png",
   "website": "https://ymkhdv.com",
-  "tintColor": "#18B1F8",
+  "tintColor": "#007fff",
   "apps": [
     {
       "name": "Bear",
