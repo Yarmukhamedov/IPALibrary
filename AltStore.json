@@ -58,9 +58,6 @@
       "tintColor": "#FFD700",
       "category": "lifestyle",
       "appPermissions": {
-  "entitlements": [
-    "com.apple.compilers.llvm.clang.1_0"
-  ],
   "privacy": {
     "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
   }
