@@ -1,106 +1,390 @@
 {
   "name": "Repository",
-  "identifier": "com.ymkhdv.repository",
   "subtitle": "All my favorite paid and free apps in one repo!",
   "description": "Contacts:\n\nTelegram: mukhammad_yarmukhamedov\nInstagram: mukhammad_yarmukhamedov\nPhone: +99893 682 72 22",
-  "iconURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/pictures/logotype.png",
-  "headerURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/pictures/header.png",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "website": "https://ymkhdv.com",
-  "tintColor": "#007fff",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#814ced",
+  "featuredApps": [],
   "apps": [
+    {
+      "name": "Intervals Pro",
+      "bundleIdentifier": "com.fourthframe.Intervals",
+      "marketplaceID": "957586938",
+      "developerName": "Intervals, LLC",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/20/29/5e202923-a479-58b0-4edf-877ed81b7ab7/AppIcon-0-0-1x_U007emarketing-0-0-0-11-0-0-85-220.png/512x512bb.png",
+      "tintColor": "#2b75e8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Intervals%20Pro/2023.4.3.ipa",
+          "size": 40000000,
+          "version": "2023.4.3",
+          "buildVersion": "",
+          "date": "2023-09-12T04:37:00+05:00",
+          "localizedDescription": "Added 2023.4.3 version",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Remind Me Faster",
+      "bundleIdentifier": "com.chojubaddReminder",
+      "marketplaceID": "985555908",
+      "developerName": "Nick Leith",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/d5/7b/ddd57b39-b458-1681-07d6-c688a8595b52/AppIconGlass1-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.png",
+      "tintColor": "#ed654c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Remind%20Faster/4.4.ipa",
+          "size": 5100000,
+          "version": "4.4",
+          "buildVersion": "",
+          "date": "2023-09-11T23:31:00+05:00",
+          "localizedDescription": "Added 4.4 version",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Smule",
+      "bundleIdentifier": "com.smule.sing",
+      "marketplaceID": "509993510",
+      "developerName": "Smule",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/3f/66/fe3f6633-d41e-6b2d-4464-d2af4ad005f4/AppIcon-CCCP-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
+      "tintColor": "#7147e9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Smule/11.2.3.ipa",
+          "size": 59100000,
+          "version": "11.2.3",
+          "buildVersion": "",
+          "date": "2023-09-11T23:38:00+05:00",
+          "localizedDescription": "Added 11.2.3 version",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "FitShare",
+      "bundleIdentifier": "com.tonggi.FitShare",
+      "marketplaceID": "1600610060",
+      "developerName": "Unknown",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/b3/59/7bb3590c-172a-3e8f-bc7c-9b9cc4b6ea44/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.png",
+      "tintColor": "#cef53d",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2023-09-11T14:26:00+05:00",
+          "localizedDescription": "Added 2.0.2 version",
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/FitShare/2.0.2.ipa",
+          "size": 82300000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Dark Reader",
+      "bundleIdentifier": "org.darkreader.DarkReaderSafari",
+      "marketplaceID": "1438243180",
+      "developerName": "Dark Reader Ltd",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/51/54/75515442-b5d2-b79d-67ec-e5a6fba6a5ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
+      "tintColor": "#394564",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.4.2",
+          "date": "2023-09-11T14:21:00+05:00",
+          "localizedDescription": "Added 1.4.2 version",
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Dark%20Reader/1.4.2.ipa",
+          "size": 1400000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Denim",
+      "bundleIdentifier": "com.ashwinsrihari.denim",
+      "marketplaceID": "1532250420",
+      "developerName": "Feel Good Tech LLP",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/6a/dc/866adc67-111a-cafb-ccb5-c369f34a8d44/DenimAppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/512x512bb.png",
+      "tintColor": "#35adff",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.0.4",
+          "date": "2023-05-03T14:11:00+05:00",
+          "localizedDescription": "Added 84.2 version",
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Denim/2.0.4.ipa",
+          "size": 84200000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "MakePass",
+      "bundleIdentifier": "com.vieitoInstantPassMobile",
+      "marketplaceID": "1450989464",
+      "developerName": "Pedro Jose Pereira Vieito",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/c9/1d/dec91dea-b4a4-27b1-a521-09e30c1b8c35/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.png",
+      "tintColor": "#5c39a3",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.7",
+          "date": "2023-04-21T22:59:00+05:00",
+          "localizedDescription": "Added 2.3 version",
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/MakePass/2.7.ipa",
+          "size": 2300000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "To Buy",
+      "bundleIdentifier": "com.tobuyapp.ios",
+      "marketplaceID": "1489580128",
+      "developerName": "Natalia Tsbulenka",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/4f/88/844f88f8-4599-b4b8-b5fc-99c4a8c5e783/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.png",
+      "tintColor": "#4ccc62",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2023-05-04T03:53:00+05:00",
+          "localizedDescription": "Updated to 2.0.2 version",
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/blob/main/Unsigned/ToBuy/2.0.2.ipa",
+          "size": 61200000,
+          "buildVersion": "",
+          "minOSVersion": null
+        },
+        {
+          "version": "1.11.2",
+          "date": "2023-05-03T08:52:00+05:00",
+          "localizedDescription": "Added 1.11.2 version",
+          "downloadURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/refs/heads/main/Unsigned/ToBuy/1.11.2.ipa",
+          "size": 81900000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Threads",
+      "bundleIdentifier": "com.burbn.barcelona",
+      "marketplaceID": "6446901002",
+      "developerName": "Instaram, Inc",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/07/e0/8307e0b6-3e41-0545-bb3a-4786a27bb946/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.png",
+      "tintColor": "#232126",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "428.0.0",
+          "date": "2026-05-06T13:37:00+05:00",
+          "localizedDescription": "Added 428.0.0 version",
+          "downloadURL": "https://archive.org/download/threads-v-428.0.0/Threads%20v428.0.0.ipa",
+          "size": 83500000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
     {
       "name": "Bear",
       "bundleIdentifier": "net.shinyfrog.bear-iOS",
+      "marketplaceID": "",
       "developerName": "Shiny Frog Ltd.",
       "subtitle": "Beautiful and powerfull Markdown app",
       "localizedDescription": "Bear is beautiful, powerfull simple Markdown app to capture, write and organize your life.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/cf/85/0acf85d1-3203-f060-2a7d-9937bddf5607/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/512x512bb.png",
-      "tintColor": "#EC2A1B",
-      "category": "developer",
-      "appPermissions": {
-  "privacy": {
-    "NSAppleMusicUsageDescription": "Used to insert images from the media into notes.",
-    "NSCameraUsageDescription": "Used to insert images from the camera into notes.",
-    "NSFaceIDUsageDescription": "Bear uses Face ID to let you lock and unlock notes.",
-    "NSMicrophoneUsageDescription": "Used to record videos in order to insert them into notes.",
-    "NSPhotoLibraryAddUsageDescription": "Used to insert images from the photo library into notes.",
-    "NSPhotoLibraryUsageDescription": "Used to insert images from the photo library into notes.",
-  }
-},
+      "tintColor": "#f31605",
+      "category": "other",
+      "screenshots": [],
       "versions": [
         {
           "version": "2.0.5",
-          "date": "2024-05-04",
+          "date": "2024-05-04T00:00:00+05:00",
+          "localizedDescription": "Updated to 2.0.5 version",
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/blob/main/Unsigned/Bear/2.0.5.ipa",
           "size": 27900000,
-          "downloadURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Bear/2.0.5.ipa",
-          "localizedDescription": "Updated to AppStore 2.0.5 version"
+          "buildVersion": null,
+          "minOSVersion": null
+        },
+        {
+          "version": "1.9.7",
+          "date": "2023-09-11T09:03:00+05:00",
+          "localizedDescription": "Added 1.9.7 version",
+          "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Bear/1.9.7.ipa",
+          "size": 22300000,
+          "buildVersion": "",
+          "minOSVersion": null
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "Walllpaper Central",
-      "bundleIdentifier": "com.ispazio.Wallpapers-Central",
+      "bundleIdentifier": "com.avangelista.Appabetical",
+      "marketplaceID": "",
       "developerName": "iSpazio S.r.I",
       "subtitle": "Wallpapers with depth effect",
       "localizedDescription": "Wallpapers Central is a service completely dedicated to the graphic customization of your devices",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/e7/72/2de77295-90ea-0711-74fc-5dbbdccdb889/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.png",
       "tintColor": "#f8367a",
-      "category": "photo-video",
-      "appPermissions": {
-  "privacy": {
-    "NSUserTrackingUsageDescription": "This identifiers will be used for deliver personalized ads to you.",
-    "NSPhotoLibraryUsageDescription": "This allows us to save images in your Photos App. Then you will able to set the downloaded image as a Live Wallpaper.",
-    "NSCameraUsageDescription": "This allows us to access to your device’s camera and upload your shoots to Wallpapers Central.",
-    "NSPhotoLibraryAddUsageDescription": "This allows us to save images in your Photos App. Then you will able to set the downloaded image as a Wallpaper.",
-    "NSAppleMusicUsageDescription": "This allows us to read your Photos and upload them on Wallpapers Central."
-  }
-},
+      "category": "other",
+      "screenshots": [],
       "versions": [
         {
           "version": "1.5.3.",
           "date": "2024-05-05",
-          "size": 31700000,
-          "downloadURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Wallpaper%20Central/1.5.3.ipa",
           "localizedDescription": "Updated to AppStore 1.5.3 version",
-          "minOSVersion": "15",
-          "maxOSVersion": "17.4"
+          "downloadURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Wallpaper%20Central/1.5.3.ipa",
+          "size": 31700000,
+          "buildVersion": null,
+          "minOSVersion": "15"
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "Loot",
       "bundleIdentifier": "com.polybitstudio.savings",
+      "marketplaceID": "",
       "developerName": "Polybit Studio Pty Ltd",
       "subtitle": "Piggy bank with saving goals",
-      "localizedDescription": "Keep track of your savings goal in a personalised 3D money jar and feel rewarded for every dollar you put away!",
+      "localizedDescription": "Keep track of your savings goal in a personalised 3D money jar and feel rewarded for every dollar you put away!\n\nLoot helps you calculate how long it will take you to save for your goal based on the amount you want put away. A savings plan is created for you and you’ll receive push notifications to keep you on track.\n\nFEATURES:\n- Save by week, fortnight or month.\n- Auto calculate based on the amount needed to save or by time.\n- View previews and upcoming payments toward your savings goal.\n- Add or remove payments.\n- Personalise your savings jar with 60 unique label styles.\n- Push notification reminders by week, fortnight or month at a specific time.\n- Dark mode ready.\n\nGot feed­back or ideas? Feel free to reach out to sup­port@poly­bit­stu­dio.­com",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ef/5b/0f/ef5b0f31-f95d-7ff4-e39b-d69385b25d4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
-      "tintColor": "#FFD700",
-      "category": "lifestyle",
-      "appPermissions": {
-  "privacy": {
-    "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
-  }
-},
+      "tintColor": "#fab100",
+      "category": "other",
+      "screenshots": [],
       "versions": [
         {
           "version": "2.1.4",
-          "date": "2024-04-05",
-          "size": 21600000,
+          "date": "2024-04-05T00:00:00+05:00",
+          "localizedDescription": "Added 2.1.4 version",
           "downloadURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Loot/2.1.4.ipa",
-          "localizedDescription": "Updated to AppStore 2.1.4 version.",
+          "size": 80900000,
+          "buildVersion": null,
           "minOSVersion": "14.0"
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     }
   ],
   "news": [
     {
+      "title": "Added lates version of Threads!",
+      "identifier": "news_qlni2svh9i",
+      "caption": "Introducing a new version",
+      "date": "2026-05-06T23:42",
+      "tintColor": "#1e1b1c",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.burbn.barcelona"
+    },
+    {
       "title": "Big update soon!",
       "identifier": "com.launch.update",
       "caption": "There will be a lot of interesting things very soon.",
-      "tintColor": "#007fff",
-      "date": "2024-05-04",
-      "notify": true
+      "date": "2024-05-04T05:00",
+      "tintColor": "#814ced",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
     }
   ]
 }
