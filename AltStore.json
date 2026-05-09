@@ -21,12 +21,12 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2023.4.3",
+          "date": "2023-09-11T18:37:00+05:00",
+          "localizedDescription": "Added 2023.4.3 version",
           "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Intervals%20Pro/2023.4.3.ipa",
           "size": 40000000,
-          "version": "2023.4.3",
-          "buildVersion": "",
-          "date": "2023-09-12T04:37:00+05:00",
-          "localizedDescription": "Added 2023.4.3 version",
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -49,12 +49,12 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "4.4",
+          "date": "2023-09-11T18:31:00+05:00",
+          "localizedDescription": "Added 4.4 version",
           "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Remind%20Faster/4.4.ipa",
           "size": 5100000,
-          "version": "4.4",
-          "buildVersion": "",
-          "date": "2023-09-11T23:31:00+05:00",
-          "localizedDescription": "Added 4.4 version",
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -77,12 +77,12 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "11.2.3",
+          "date": "2023-09-11T18:38:00+05:00",
+          "localizedDescription": "Added 11.2.3 version",
           "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Smule/11.2.3.ipa",
           "size": 59100000,
-          "version": "11.2.3",
-          "buildVersion": "",
-          "date": "2023-09-11T23:38:00+05:00",
-          "localizedDescription": "Added 11.2.3 version",
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -106,11 +106,11 @@
       "versions": [
         {
           "version": "2.0.2",
-          "date": "2023-09-11T14:26:00+05:00",
+          "date": "2023-09-11T09:26:00+05:00",
           "localizedDescription": "Added 2.0.2 version",
           "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/FitShare/2.0.2.ipa",
           "size": 82300000,
-          "buildVersion": "",
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -134,11 +134,11 @@
       "versions": [
         {
           "version": "1.4.2",
-          "date": "2023-09-11T14:21:00+05:00",
+          "date": "2023-09-11T09:21:00+05:00",
           "localizedDescription": "Added 1.4.2 version",
           "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Dark%20Reader/1.4.2.ipa",
           "size": 1400000,
-          "buildVersion": "",
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -162,11 +162,11 @@
       "versions": [
         {
           "version": "2.0.4",
-          "date": "2023-05-03T14:11:00+05:00",
+          "date": "2023-05-03T09:11:00+05:00",
           "localizedDescription": "Added 84.2 version",
           "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Denim/2.0.4.ipa",
           "size": 84200000,
-          "buildVersion": "",
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -190,11 +190,11 @@
       "versions": [
         {
           "version": "2.7",
-          "date": "2023-04-21T22:59:00+05:00",
+          "date": "2023-04-21T07:59:00+05:00",
           "localizedDescription": "Added 2.3 version",
           "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/MakePass/2.7.ipa",
           "size": 2300000,
-          "buildVersion": "",
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -218,20 +218,20 @@
       "versions": [
         {
           "version": "2.0.2",
-          "date": "2023-05-04T03:53:00+05:00",
+          "date": "2023-05-03T17:53:00+05:00",
           "localizedDescription": "Updated to 2.0.2 version",
           "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/blob/main/Unsigned/ToBuy/2.0.2.ipa",
           "size": 61200000,
-          "buildVersion": "",
+          "buildVersion": "1",
           "minOSVersion": null
         },
         {
           "version": "1.11.2",
-          "date": "2023-05-03T08:52:00+05:00",
+          "date": "2023-05-02T22:52:00+05:00",
           "localizedDescription": "Added 1.11.2 version",
           "downloadURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/refs/heads/main/Unsigned/ToBuy/1.11.2.ipa",
           "size": 81900000,
-          "buildVersion": "",
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -255,11 +255,11 @@
       "versions": [
         {
           "version": "428.0.0",
-          "date": "2026-05-06T13:37:00+05:00",
+          "date": "2026-05-06T08:37:00+05:00",
           "localizedDescription": "Added 428.0.0 version",
           "downloadURL": "https://archive.org/download/threads-v-428.0.0/Threads%20v428.0.0.ipa",
           "size": 83500000,
-          "buildVersion": "",
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -283,20 +283,20 @@
       "versions": [
         {
           "version": "2.0.5",
-          "date": "2024-05-04T00:00:00+05:00",
+          "date": "2024-05-03T09:00:00+05:00",
           "localizedDescription": "Updated to 2.0.5 version",
           "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/blob/main/Unsigned/Bear/2.0.5.ipa",
           "size": 27900000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         },
         {
           "version": "1.9.7",
-          "date": "2023-09-11T09:03:00+05:00",
+          "date": "2023-09-10T18:03:00+05:00",
           "localizedDescription": "Added 1.9.7 version",
           "downloadURL": "https://github.com/Yarmukhamedov/IPALibrary/raw/refs/heads/main/Unsigned/Bear/1.9.7.ipa",
           "size": 22300000,
-          "buildVersion": "",
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -348,11 +348,11 @@
       "versions": [
         {
           "version": "2.1.4",
-          "date": "2024-04-05T00:00:00+05:00",
+          "date": "2024-04-04T09:00:00+05:00",
           "localizedDescription": "Added 2.1.4 version",
           "downloadURL": "https://raw.githubusercontent.com/Yarmukhamedov/IPALibrary/main/Unsigned/Loot/2.1.4.ipa",
           "size": 80900000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": "14.0"
         }
       ],
