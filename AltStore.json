@@ -71,7 +71,15 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/3f/66/fe3f6633-d41e-6b2d-4464-d2af4ad005f4/AppIcon-CCCP-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
       "tintColor": "#7147e9",
       "category": "other",
-      "screenshots": [],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/eb/58/3feb58f1-0ce7-9ead-487b-e3760234c3d6/f2f9d7c6-ea14-4c6f-ab35-7a40251d0d6d_Smule_Smule_UK_iOS_5.5_Screenshot_Mockups_220408-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/f4/31/9cf431b8-c49b-0872-4caa-2feca139ef96/c6638a94-84bb-4dfb-aebb-3c1ca3892589_Smule_Smule_UK_iOS_5.5_Screenshot_Mockups_220408-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/d2/e6/33d2e6b6-f958-9763-e72e-bddc2ee77daa/2f457ab0-116f-4465-ba17-6e545e636348_Smule_Smule_UK_iOS_5.5_Screenshot_Mockups_220408-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/13/c5/1a13c5f1-387f-1b0c-ebd5-24b6294c343b/0767c2b2-b369-44d5-abb8-2c5096e1cf20_Smule_Smule_UK_iOS_5.5_Screenshot_Mockups_220408-4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/2f/85/ae2f8528-988e-67a4-5d43-c3f1f4439af4/17ce4804-feb6-44e1-9672-b0eb932ad191_Smule_Smule_UK_iOS_5.5_Screenshot_Mockups_220408-5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a5/b5/02a5b52d-6eb2-821d-542b-eebefc45be7f/92347139-673b-45d0-9880-88a793da3356_Smule_Smule_UK_iOS_5.5_Screenshot_Mockups_220408-6.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/79/ab/ef79ab0a-7b57-fe0c-3e2d-bc959c2d1d35/995947ed-fec0-4893-a6be-15986673daf4_Smule_Smule_UK_iOS_5.5_Screenshot_Mockups_220408-7.png/392x696bb.png"
+      ],
       "versions": [
         {
           "version": "11.2.3",
@@ -152,7 +160,13 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/6a/dc/866adc67-111a-cafb-ccb5-c369f34a8d44/DenimAppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/512x512bb.png",
       "tintColor": "#35adff",
       "category": "other",
-      "screenshots": [],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/7b/ad/287bad49-8529-9c3a-4576-51b9b493eb4f/ec43b98a-5952-4bc5-b31d-311bbf5870e3_Hello_Denim_-_Compact.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/b1/99/c2b19957-af5e-c385-9e5b-1d3bcbc3b194/b0330ce7-a506-4f4b-8bbf-d1c510cb29c6_Artworks_-_Compact.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/4e/23/d24e233a-a66b-1a96-2749-b901da9282d7/df96935d-d04c-47bd-bf86-5722f216374d_Customise_-_Compact.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/f2/47/6cf24734-a0b6-4a25-019e-3513f6b2bb82/1143369c-1c43-46ff-a0af-6ab229668bd6_Remix_-_Compact.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/36/1a/0f361a8d-2baa-6016-8b7a-0a155d1b2d69/587a7614-3578-499e-92eb-79156700ed44_Personalized_-_Compact.png/392x696bb.png"
+      ],
       "versions": [
         {
           "version": "2.0.4",
