@@ -7,11 +7,11 @@
   "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#814ced",
   "featuredApps": [],
-  "apps": [
+"apps": [
     {
       "name": "Intervals Pro",
       "bundleIdentifier": "com.fourthframe.Intervals",
-      "marketplaceID": "957586938",
+      "marketplaceID": "",
       "developerName": "Intervals, LLC",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -39,7 +39,7 @@
     {
       "name": "Remind Me Faster",
       "bundleIdentifier": "com.chojubaddReminder",
-      "marketplaceID": "985555908",
+      "marketplaceID": "",
       "developerName": "Nick Leith",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -67,7 +67,7 @@
     {
       "name": "Smule",
       "bundleIdentifier": "com.smule.sing",
-      "marketplaceID": "509993510",
+      "marketplaceID": "",
       "developerName": "Smule",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -95,7 +95,7 @@
     {
       "name": "FitShare",
       "bundleIdentifier": "com.tonggi.FitShare",
-      "marketplaceID": "1600610060",
+      "marketplaceID": "",
       "developerName": "Unknown",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -123,7 +123,7 @@
     {
       "name": "Dark Reader",
       "bundleIdentifier": "org.darkreader.DarkReaderSafari",
-      "marketplaceID": "1438243180",
+      "marketplaceID": "",
       "developerName": "Dark Reader Ltd",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -151,7 +151,7 @@
     {
       "name": "Denim",
       "bundleIdentifier": "com.ashwinsrihari.denim",
-      "marketplaceID": "1532250420",
+      "marketplaceID": "",
       "developerName": "Feel Good Tech LLP",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -179,7 +179,7 @@
     {
       "name": "MakePass",
       "bundleIdentifier": "com.vieitoInstantPassMobile",
-      "marketplaceID": "1450989464",
+      "marketplaceID": "",
       "developerName": "Pedro Jose Pereira Vieito",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -207,7 +207,7 @@
     {
       "name": "To Buy",
       "bundleIdentifier": "com.tobuyapp.ios",
-      "marketplaceID": "1489580128",
+      "marketplaceID": "",
       "developerName": "Natalia Tsbulenka",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -244,7 +244,7 @@
     {
       "name": "Threads",
       "bundleIdentifier": "com.burbn.barcelona",
-      "marketplaceID": "6446901002",
+      "marketplaceID": "",
       "developerName": "Instaram, Inc",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -340,7 +340,7 @@
       "marketplaceID": "",
       "developerName": "Polybit Studio Pty Ltd",
       "subtitle": "Piggy bank with saving goals",
-      "localizedDescription": "Keep track of your savings goal in a personalised 3D money jar and feel rewarded for every dollar you put away!\n\nLoot helps you calculate how long it will take you to save for your goal based on the amount you want put away. A savings plan is created for you and you’ll receive push notifications to keep you on track.\n\nFEATURES:\n- Save by week, fortnight or month.\n- Auto calculate based on the amount needed to save or by time.\n- View previews and upcoming payments toward your savings goal.\n- Add or remove payments.\n- Personalise your savings jar with 60 unique label styles.\n- Push notification reminders by week, fortnight or month at a specific time.\n- Dark mode ready.\n\nGot feed­back or ideas? Feel free to reach out to sup­port@poly­bit­stu­dio.­com",
+      "localizedDescription": "Keep track of your savings goal in a personalised 3D money jar and feel rewarded for every dollar you put away!\n\nLoot helps you calculate how long it will take you to save for your goal based on the amount you want put away. A savings plan is created for you and you’ll receive push notifications to keep you on track.\n\nFEATURES:\n- Save by week, fortnight or month.\n- Auto calculate based on the amount needed to save or by time.\n- View previews and upcoming payments toward your savings goal.\n- Add or remove payments.\n- Personalise your savings jar with 60 unique label styles.\n- Push notification reminders by week, fortnight or month at a specific time.\n- Dark mode ready.\n\nGot feed­back or ideas? Feel free to reach out to sup­port@poly­bit­stu­dio.­com",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ef/5b/0f/ef5b0f31-f95d-7ff4-e39b-d69385b25d4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
       "tintColor": "#fab100",
       "category": "other",
@@ -361,28 +361,6 @@
         "privacy": {}
       },
       "patreon": {}
-    }
-  ],
-  "news": [
-    {
-      "title": "Added lates version of Threads!",
-      "identifier": "news_qlni2svh9i",
-      "caption": "Introducing a new version",
-      "date": "2026-05-06T23:42",
-      "tintColor": "#1e1b1c",
-      "notify": true,
-      "url": "https://example.com/new_feature_details",
-      "appID": "com.burbn.barcelona"
-    },
-    {
-      "title": "Big update soon!",
-      "identifier": "com.launch.update",
-      "caption": "There will be a lot of interesting things very soon.",
-      "date": "2024-05-04T05:00",
-      "tintColor": "#814ced",
-      "notify": true,
-      "url": "https://example.com/new_feature_details",
-      "appID": null
     }
   ]
 }
